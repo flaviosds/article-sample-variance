@@ -1,10 +1,8 @@
-% ----- Headline -----
-\section*{Do You Know Why We Use \( n - 1 \) to Estimate the Variance of a Sample?}
+Do You Know Why We Use \( n - 1 \) to Estimate the Variance of a Sample?
 
-% ----- Introduction -----
 In descriptive statistics, it is common to define measures that evaluate the central tendency and dispersion of a population distribution. The most popular measures are the mean, median, variance, and standard deviation, defined as follows for a complete population:
 
-Let \( X = \{x_1, x_2, \dots, x_N\} \) be a dataset of size \( N \).
+Let $ X = \{x_1, x_2, \dots, x_N\} $ be a dataset of size \( N \).
 
 \begin{itemize}
     \item \textbf{Mean (Arithmetic Average):}
