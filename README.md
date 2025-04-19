@@ -1,11 +1,3 @@
-\documentclass{article}
-\usepackage{amsmath}
-\usepackage{graphicx}
-\usepackage{hyperref}
-\usepackage{float}
-
-\begin{document}
-
 % ----- Headline -----
 \section*{Do You Know Why We Use \( n - 1 \) to Estimate the Variance of a Sample?}
 
